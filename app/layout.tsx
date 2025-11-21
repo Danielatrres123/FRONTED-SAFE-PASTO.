@@ -1,5 +1,5 @@
 // app/layout.tsx
-import './globals.css'; // si tienes estilos globales
+import './globals.css'; // si tienes CSS global
 
 export const metadata = {
   title: 'Safe Pasto',
@@ -17,4 +17,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 
